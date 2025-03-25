@@ -1,8 +1,6 @@
 ### Hi Dev 👋
 
-
-- 🔭 I'm currently not working
-- 🌱 I’m currently learning React and C#
-- 👯 I’m looking to collaborate on college project
-- 🚀 .NET • JQuery • SQL • C# • BackEnd • React • TypeScript • JavaScript 
+🔭 I'm currently not working
+<br>
+[![My Skills](https://skillicons.dev/icons?i=CS,dotnet,aws,java,js,ts,nodejs,jquery,mysql,sqlite,prisma,react)](https://skillicons.dev)
 
